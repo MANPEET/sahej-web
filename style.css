@@ -107,6 +107,11 @@ body {
   display: none;
 }
 
+
+#navbar .active{
+  right: 0;
+}
+
 #main {
   background-image: url("img/hero4.png");
   height: 90vh;
